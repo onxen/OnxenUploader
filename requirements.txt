@@ -13,3 +13,5 @@ filetype
 tldextract
 Flask==2.2.2
 gunicorn==20.1.0
+git+https://github.com/Rapptz/discord.py
+ffmpeg
