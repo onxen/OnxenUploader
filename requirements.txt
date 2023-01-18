@@ -13,4 +13,4 @@ filetype
 tldextract
 Flask==2.2.2
 gunicorn==20.1.0
-
+git+https://gist.github.com/santazhang/1971168#file-install_ffmpeg-py
