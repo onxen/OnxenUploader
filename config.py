@@ -30,3 +30,4 @@ class Config(object):
     DEF_WATER_MARK_FILE = ""
     #Admin id is stored in 
     LAZY_DEVELOPER = "1126504307"
+    LAZY_ADMIN = "1126504307"
